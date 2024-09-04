@@ -1,4 +1,4 @@
-module github.com/Jateq/ecommerce
+module github.com/DaurenCS/Online-Store
 
 go 1.19
 
